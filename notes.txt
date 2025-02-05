@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=_vqlIPDR2TU
+
+- breadth first search
+- min max alpha beta pruning
