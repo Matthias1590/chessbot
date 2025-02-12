@@ -1,5 +1,5 @@
 CPP = g++
-CPPFLAGS = -std=c++20 -Wall -Wextra -Werror -pedantic -g
+CPPFLAGS = -std=c++20 -Wall -Wextra -Werror -pedantic -g -Ofast
 
 SRCS = $(wildcard src/*.cpp)
 OBJS = $(SRCS:src/%.cpp=obj/%.o)

@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "2025.02.12"]
+[Round "?"]
+[White "Matthias Wijnsma"]
+[Black "chess"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:06:53"]
+[GameEndTime "2025-02-12T17:59:43.665 GMT+1"]
+[GameStartTime "2025-02-12T17:52:50.629 GMT+1"]
+[Opening "Queen's pawn"]
+[PlyCount "67"]
+[Termination "illegal move"]
+[TimeControl "40/300"]
+
+1. d4 e6 {1.9s} 2. c4 {25s} Nc6 {4.7s} 3. e3 {7.1s} Bb4+ {6.8s} 4. Nc3 {7.2s}
+Nf6 {7.6s} 5. a3 {2.5s} Bxc3+ {8.2s} 6. bxc3 {1.8s} d5 {4.5s} 7. cxd5 {11s}
+Qxd5 {8.0s} 8. c4 {8.4s} Qa5+ 9. Bd2 {11s} Qf5 10. Nf3 {5.4s} Ne4 11. Bd3 {6.3s}
+Nxd4 12. exd4 {29s} Nxf2 13. Kxf2 {4.3s} Qxd3 14. Qe2 {9.8s} Qc2 15. Rhc1 {14s}
+Qb2 16. Rcb1 {35s} Qc2 {11s} 17. Bb4 {29s} Qxe2+ {9.9s} 18. Kxe2 {3.0s}
+h6 {2.4s} 19. Kd3 {1.8s} a5 {2.3s} 20. Bc3 {7.9s} O-O {2.9s} 21. Re1 {11s}
+Bd7 {1.9s} 22. Ne5 {4.7s} Be8 {3.1s} 23. Rab1 {10s} f6 {3.2s} 24. Nf3 {17s}
+Bg6+ {4.4s} 25. Kd2 {17s} Bxb1 {4.8s} 26. Rxb1 {1.1s} e5 {2.1s} 27. Rxb7 {2.8s}
+e4 {1.6s} 28. Ne1 {2.9s} c5 {1.1s} 29. d5 {4.2s} Rae8 {0.96s} 30. Rc7 {2.6s}
+g5 {0.86s} 31. Rxc5 {1.8s} e3+ {0.82s} 32. Kd3 {2.4s} Kg7 {0.85s}
+33. Rxa5 {2.1s} e2 {1.1s} 34. Ra6 {1.1s, Black makes an illegal move: h8g8} 1-0
+

@@ -13,7 +13,7 @@ fi
   sleep 0.1
   echo "position fen $FEN"
   sleep 0.1
-  echo "go depth 20"
+  echo "go depth 5"
   sleep 0.1
   echo "quit"
-} | "$STOCKFISH_PATH" | grep -m 1 "bestmove" | awk '{print $2}'
+} | "$STOCKFISH_PATH" | grep "score cp" | awk '{print $10}' | tail -n 1
